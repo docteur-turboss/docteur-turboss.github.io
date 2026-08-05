@@ -13,9 +13,9 @@ export const PERSONAL_INFO = {
   avatarCompact: 'https://media.licdn.com/dms/image/v2/D4E03AQEDSQeVyVOcnA/profile-displayphoto-scale_200_200/B4EZmVXfMkGUAY-/0/1759147587403?e=1785974400&v=beta&t=Q5oHIf_G4lgk1F18ha31fx_7zDDzi3JnwCpiBmUe0QM',
   bio: 'Senior Backend Engineer with 7+ years of experience crafting high-scale architectures. Specialized in code quality, system reliability, and modular backend ecosystems. I build simple, scalable solutions for complex technical challenges.',
   location: 'Lille, France',
-  website: 'https://github.com/docteur-turboss',
+  website: 'github.com/docteur-turboss',
   email: 'thom.cherbonnel@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/thomas-gille-cherbonnel'
+  linkedin: 'www.linkedin.com/in/thomas-gille-cherbonnel'
 };
 
 export const SKILL_GROUPS: SkillGroup[] = [
